@@ -1,0 +1,6 @@
+c:\users\sonu\documents\visual studio 2013\Projects\AddEmployee\AddEmployee\bin\Debug\AddEmployee.exe.config
+c:\users\sonu\documents\visual studio 2013\Projects\AddEmployee\AddEmployee\bin\Debug\AddEmployee.exe
+c:\users\sonu\documents\visual studio 2013\Projects\AddEmployee\AddEmployee\bin\Debug\AddEmployee.pdb
+c:\users\sonu\documents\visual studio 2013\Projects\AddEmployee\AddEmployee\obj\Debug\AddEmployee.csprojResolveAssemblyReference.cache
+c:\users\sonu\documents\visual studio 2013\Projects\AddEmployee\AddEmployee\obj\Debug\AddEmployee.exe
+c:\users\sonu\documents\visual studio 2013\Projects\AddEmployee\AddEmployee\obj\Debug\AddEmployee.pdb
